@@ -1,6 +1,6 @@
 {
   "name": "mercury-2-code-cli",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Autonomous AI coding agent CLI powered by Mercury-2 (Inception Labs) — the fastest diffusion language model for software development",
   "keywords": [
     "mercury-2",
