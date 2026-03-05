@@ -18,7 +18,7 @@
   ],
   "license": "MIT",
   "bin": {
-    "mercury": "./dist/bin/mercury.js"
+    "mercury": "dist/bin/mercury.js"
   },
   "main": "./dist/src/index.js",
   "types": "./dist/src/index.d.ts",
