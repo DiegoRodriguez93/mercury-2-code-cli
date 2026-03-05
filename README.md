@@ -1,5 +1,7 @@
 # mercury-2-code-cli
 
+<img width="2222" height="976" alt="Screenshot 2026-03-05 113344" src="https://github.com/user-attachments/assets/199d44e7-af10-4eed-beff-bbf0835678c6" />
+
 [![npm version](https://img.shields.io/npm/v/mercury-2-code-cli)](https://www.npmjs.com/package/mercury-2-code-cli)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js](https://img.shields.io/badge/node-%3E%3D18-brightgreen)](https://nodejs.org)
