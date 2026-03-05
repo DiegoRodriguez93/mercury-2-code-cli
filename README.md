@@ -12,7 +12,7 @@
 
 ```bash
 npm i -g mercury-2-code-cli
-mercury "add auth middleware to my Express app"
+mercury
 ```
 
 ---
@@ -45,6 +45,9 @@ Or just run `mercury` with no arguments — you will be prompted and the key is 
 ```bash
 # Set API key
 export INCEPTION_API_KEY=sk-...
+
+# Interactive mode
+mercury
 
 # Run a task
 mercury "add unit tests for src/utils.ts"
