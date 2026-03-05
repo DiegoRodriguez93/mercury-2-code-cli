@@ -1,0 +1,43 @@
+{
+  "name": "mercury-2-code-cli",
+  "version": "0.1.0",
+  "description": "Autonomous AI coding agent CLI powered by Mercury-2 (Inception Labs) — the fastest diffusion language model for software development",
+  "keywords": [
+    "mercury-2",
+    "inception-labs",
+    "ai-agent",
+    "code-agent",
+    "autonomous-coding",
+    "cli",
+    "agentic",
+    "llm",
+    "coding-assistant",
+    "developer-tools",
+    "ai-coding",
+    "copilot"
+  ],
+  "license": "MIT",
+  "bin": {
+    "mercury": "./dist/bin/mercury.js"
+  },
+  "main": "./dist/src/index.js",
+  "types": "./dist/src/index.d.ts",
+  "files": [
+    "dist/",
+    "README.md",
+    "LICENSE"
+  ],
+  "type": "module",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "build": "tsc",
+    "dev": "ts-node bin/mercury.ts",
+    "prepublishOnly": "npm run build"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.4.0"
+  }
+}
