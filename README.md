@@ -23,7 +23,7 @@ mercury
 npm install -g mercury-2-code-cli
 ```
 
-Set your API key (get one at [inceptionlabs.ai](https://www.inceptionlabs.ai/)):
+Set your API key (get one at [inceptionlabs.ai](https://www.inceptionlabs.ai/)): Free tier 10 Millions tokens free today 3/5/2026
 
 ```bash
 export INCEPTION_API_KEY=your_key_here
